@@ -1,5 +1,6 @@
-SOIC//SMD SOIC IC
+//SMD SOIC IC
 //Based on JEDEC MS-012 Issue F Variation AB
+// https://github.com/Mechabotix/OpenSCAD
 
 module RenderSOIC(pins)
 {
